@@ -1,0 +1,63 @@
+.color {
+
+    color: black;
+    /* background-color: blue; */
+    /* background-color: black; */
+    font-size: 130px;
+    /* font-weight: bolder;
+    font-style: oblique;
+    text-transform: capitalize; */
+    text-decoration: underline;
+    /* line-height: 500px; */
+    letter-spacing: 20px;
+    word-spacing: 120px;
+    text-align: justify;
+
+}
+
+.name {
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    /* text-align: right; */
+    /* text-shadow: 1px 2px 3px #2B54CE; */
+}
+
+.name::first-letter {
+    /* text-align: right; */
+    /* font-size: 130px; */
+}
+
+.firstLineClass::first-line {
+    /* background-color: orange; */
+}
+
+a:visited {
+    color: orange;
+    background-color: red;
+    font-size: 120px;
+}
+
+a:link {
+    background-color: orange;
+    font-size: 120px;
+}
+
+.name:hover {
+    /* font-size: 50px; */
+    color: darkcyan;
+}
+
+.firstChar:hover {
+    background-color: red;
+}
+
+.input:focus {
+    background-color: red;
+    width: 400px;
+}
+
+/*
+Font face
+Font Family
+Measuring Units
+*/
