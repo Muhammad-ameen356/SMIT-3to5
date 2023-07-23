@@ -1,0 +1,97 @@
+/* @font-face {
+  font-family: "Calligraffitti100";
+  src: url(./assets/fonts/Calligraffitti-Regular.ttf);
+}
+
+
+
+@font-face {
+  font-family: "roboto-black";
+  src: url(./assets/fonts/Roboto-Black.ttf);
+}
+
+@font-face {
+  font-family: "roboto-blackItalic";
+  src: url(./assets/fonts/Roboto-BlackItalic.ttf);
+} */
+/* p {
+    font-family: "Calligraffitti100";
+} */
+/* 
+.container {
+  font-size: 20px;
+} */
+
+/* .black {
+  font-family: "roboto-black";
+  font-size: 2em;
+}
+
+.black-italic {
+  font-family: "roboto-blackItalic";
+}
+
+.normal {
+  font-family: "Calligraffitti100";
+} */
+
+/* .container {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+} */
+
+/* .width {
+    max-width: 300px;
+    min-width: 200px;
+
+    max-height: 200px;
+    min-height: 100px;
+    background-color: red;
+} */
+
+/* .container {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    overflow-y: scroll;
+    overflow: auto;
+} */
+
+/* .container {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+
+    width: 300px;
+    height: 200px;
+
+    margin-left: 50px;
+    padding-left: 50px;
+} */
+
+.mainContainer {
+  width: 300px;
+  height: 300px;
+  background-color: orange;
+  padding: 50px;
+}
+
+.container {
+  width: 100px;
+  height: 100px;
+
+  background-color: red;
+}
+
+.text {
+  /* background-color: aqua; */
+  /* margin-top: 40px; */
+  /* padding: 40px 10px 40px 10px; */
+  /* padding: 140px 10px; */
+  /* border-width: 2px;
+   border-color: black;
+   border-style: solid; */
+
+  border: 2px solid px;
+}
