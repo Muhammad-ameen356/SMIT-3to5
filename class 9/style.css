@@ -1,0 +1,46 @@
+.parentContainer {
+  /* min-height: 500px;
+  max-height: 600px; */
+  border: 2px solid black;
+  /* display: flex; */
+  /* justify-content: center;
+    align-items: center; */
+  /* flex-direction: row-reverse; */
+  /* justify-content: flex-end; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+
+.childContianer {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 10px;
+  /* cursor: pointer; */
+}
+
+.child5 {
+  /* position: relative;
+  top: 50px;
+  left: 100px; */
+  /* position: fixed;
+  right: 10px;
+  bottom: 0px;
+  width: 10px;
+  background-color: aqua; */
+}
+
+.image {
+  position: fixed;
+  /* right: 0px;
+  bottom: 0px; */
+  /* top: 220px; */
+  right: 20px;
+  bottom: 20px;
+  /* background-color: red; */
+}
+
+img {
+  width: 40px;
+  height: 40px;
+}
