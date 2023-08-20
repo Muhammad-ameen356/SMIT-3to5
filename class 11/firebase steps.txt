@@ -1,0 +1,10 @@
+1) Node js Install
+2) node version check (node -v)
+3) npm version (npm -v)
+
+4) Go to firebase and go to console login
+5) Create project on firebase
+6) Install firebase on system using command prompt (npm i -g firebase tools)
+7) Firebase Login (firebase login)
+8) Firebase init (firebase init)
+9) firebase deploy (firebase deploy)
